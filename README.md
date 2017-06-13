@@ -7,5 +7,5 @@
 
 [assignment week 8](https://github.com/Meesvanbroekhoven/assingments/blob/master/assignment5.ipynb)
 
-[final assignment python](https://github.com/Meesvanbroekhoven/assingments/blob/master/Final_Assignment_Python_1_students-2.ipynb)
+[final python assingment](https://github.com/Meesvanbroekhoven/assingments/blob/master/Final_Assignment_Python_1_students-2.ipynb)
 
